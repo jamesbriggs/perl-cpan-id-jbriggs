@@ -1,4 +1,8 @@
 perl-cpan-id-jbriggs
 ====================
 
-Perl CPAN Author JBRIGGS
+I am Perl CPAN Author JBRIGGS.
+
+You can view my CPAN contributions here:
+http://search.cpan.org/~jbriggs/
+
